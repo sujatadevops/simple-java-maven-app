@@ -17,9 +17,7 @@
   </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-  <properties>
-  <sonar.organization>sujatadevops</sonar.organization>
+    <sonar.organization>sujatadevops</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
    <sonar.login>825424ba1ed195b4fa9265c761206f92f30f4788</sonar.login>
 </properties>
